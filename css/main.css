@@ -60,7 +60,7 @@ a {
 /* 3. Specific */
 
 .wallpaper {
-	background-image: url(../images/backgound.jpg);
+	background-image: url(../image/backgound.jpg);
 	background-position: center;
     background-size: cover;
     opacity: 0.2;
